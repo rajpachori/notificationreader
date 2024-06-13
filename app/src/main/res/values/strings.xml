@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">notificationreader</string>
+    <string name="button_name">Enable Notification Access</string>
+    <string name="txt_exception">Exception text</string>
+</resources>
